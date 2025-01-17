@@ -1,1 +1,2 @@
-# Go For Mongo\n Learning go woth mongodb!
+# Go For Mongo
+Learning go woth mongodb!
